@@ -30,7 +30,7 @@ These exercises focus on these two types of operations.
 - `baby_test.rb`
 - `kid_test.rb`
 - `beers_test.rb`
-- `teenager_test.rb`
+- `teenager_test.rb`#not in file
 - `adult_test.rb`
 - `roll_call_test.rb`
 - `santa_test.rb`
